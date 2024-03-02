@@ -1,0 +1,1 @@
+finding length in an char array
